@@ -4,34 +4,6 @@ Este proyecto fue desarrollado como respuesta a un challenge técnico para autom
 
 ---
 
-## Requisitos Técnicos
-
-- Python 3.10 o superior (usado: 3.13)
-- Pytest (`pip install -r requirements.txt`)
-- Estructura modular basada en POM
-- Parametrización dinámica de `personId`
-- Manejo básico de errores y validaciones
-
----
-
-## Estructura del Proyecto
-
-api_test_challenge_ready/
-├── api_pytest_tests/
-│ └── api_test_enhanced.py # Archivo principal con casos de prueba
-├── pages/
-│ ├── init.py # Define módulo pages
-│ └── import_api.py # Lógica POM simulando la API
-├── tests/
-│ ├── test_import.py # Otros tests iniciales
-│ └── test_import_2.py
-├── conftest.py # Fixtures compartidos
-├── requirements.txt # Dependencias
-└── README.md # Este archivo
-
-
----
-
 ## Cómo ejecutar los tests
 
 # API Test Challenge – Automatización con Pytest
