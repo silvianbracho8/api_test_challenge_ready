@@ -4,14 +4,6 @@ Este proyecto fue desarrollado como respuesta a un challenge técnico para autom
 
 ---
 
-## Cómo ejecutar los tests
-
-# API Test Challenge – Automatización con Pytest
-
-Este proyecto fue desarrollado como respuesta a un challenge técnico para automatizar pruebas sobre una API REST. Se implementaron pruebas de tipo **happy path** y **sad path**, siguiendo buenas prácticas de estructura y reutilización de código con el patrón **POM (Page Object Model)**, adaptado para API Testing.
-
----
-
 ## Requisitos Técnicos
 
 - Python 3.10 o superior (usado: 3.13)
