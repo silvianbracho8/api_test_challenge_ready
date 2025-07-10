@@ -14,7 +14,7 @@ Este proyecto fue desarrollado como respuesta a un challenge técnico para autom
 
 ---
 
-## 📁 Estructura del Proyecto
+## Estructura del Proyecto
 
 api_test_challenge_ready/
 ├── api_pytest_tests/
@@ -40,7 +40,7 @@ Este proyecto fue desarrollado como respuesta a un challenge técnico para autom
 
 ---
 
-## 🚀 Requisitos Técnicos
+## Requisitos Técnicos
 
 - Python 3.10 o superior (usado: 3.13)
 - Pytest (`pip install -r requirements.txt`)
@@ -50,7 +50,7 @@ Este proyecto fue desarrollado como respuesta a un challenge técnico para autom
 
 ---
 
-## 📁 Estructura del Proyecto
+## Estructura del Proyecto
 
 ```
 api_test_challenge_ready/
@@ -69,7 +69,7 @@ api_test_challenge_ready/
 
 ---
 
-## 🧪 Cómo ejecutar los tests
+## Cómo ejecutar los tests
 
 Desde la raíz del proyecto, ejecutar:
 
@@ -85,7 +85,7 @@ py -m pytest -s
 
 ---
 
-## ✅ Casos implementados
+## Casos implementados
 
 - `test_create_person_happy`: Crea una persona válida y verifica la respuesta
 - `test_get_person_valid`: Consulta una persona existente
@@ -93,7 +93,7 @@ py -m pytest -s
 
 ---
 
-## 🛠️ Extras implementados
+## Extras implementados
 
 - Uso de fixtures (`api`, `valid_person_id`, `auth_headers`)
 - Logs informativos con `logging`
@@ -102,7 +102,7 @@ py -m pytest -s
 
 ---
 
-## 🧩 Futuras mejoras sugeridas
+## Futuras mejoras sugeridas
 
 - Conexión real con una API externa (remplazar mock por `requests`)
 - Validación contra base de datos (opcional)
@@ -111,6 +111,6 @@ py -m pytest -s
 
 ---
 
-## ✍️ Autora
+## Autora
 
 Silvia Bracho  
